@@ -1,6 +1,6 @@
 # Todo App (React + Vite)
 
-[![Open in VS Code Web](https://img.shields.io/badge/Open%20in-VS%20Code%20Web-007ACC?logo=visualstudiocode&logoColor=white)](https://github.com/codespaces/fictional-adventure-7j559rwqv4p3xwxp?editor=web)
+[![Open in VS Code Web](https://img.shields.io/badge/Open%20in-VS%20Code%20Web-007ACC?logo=visualstudiocode&logoColor=white)](https://codespaces.new/veenagovadabb/todo)
 
 A simple todo application built with React and Vite.
 
